@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+======================================
+=====================================
+=================================
+===========================
+
 public class Arrays2 {
     public static void main(String[] args) {
         /*int[] da = new int[4];
